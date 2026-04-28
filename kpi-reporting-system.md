@@ -1,3 +1,5 @@
+*Author: Omaimah Siddiqui*
+
 How Internal KPI Reporting Works: From Raw Data to Business Insights
 
 Overview
