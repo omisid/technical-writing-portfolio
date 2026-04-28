@@ -1,3 +1,5 @@
+*Author: Omaimah Siddiqui*
+
 Debugging APIs Without Guesswork: A Practical Guide
 
 Overview
